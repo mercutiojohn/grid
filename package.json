@@ -1,0 +1,13 @@
+{
+  "name": "vue-js-grid",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/j23p2opkk3",
+  "main": "index.js",
+  "dependencies": {
+    "vue-router": "2.7.0",
+    "vue-js-grid": "1.0.1",
+    "vue": "2.4.4"
+  }
+}
